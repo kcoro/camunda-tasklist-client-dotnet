@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "SOuYjg82Olev2OpGgC9IQptnkRw1YQRz3B0Gd9/V/86GMsrwCpUMc2bO4F67x35/CvxTpmnVS5WLhQyhHHy0Eg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sushido\\source\\camunda-tasklist-client\\camunda-tasklist-client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sushido\\.nuget\\packages\\google.apis\\1.46.0\\google.apis.1.46.0.nupkg.sha512",
+    "C:\\Users\\sushido\\.nuget\\packages\\google.apis.auth\\1.46.0\\google.apis.auth.1.46.0.nupkg.sha512",
+    "C:\\Users\\sushido\\.nuget\\packages\\google.apis.core\\1.46.0\\google.apis.core.1.46.0.nupkg.sha512",
+    "C:\\Users\\sushido\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
+    "C:\\Users\\sushido\\.nuget\\packages\\graphql.client\\4.0.2\\graphql.client.4.0.2.nupkg.sha512",
+    "C:\\Users\\sushido\\.nuget\\packages\\graphql.client.abstractions\\4.0.2\\graphql.client.abstractions.4.0.2.nupkg.sha512",
+    "C:\\Users\\sushido\\.nuget\\packages\\graphql.client.abstractions.websocket\\4.0.2\\graphql.client.abstractions.websocket.4.0.2.nupkg.sha512",
+    "C:\\Users\\sushido\\.nuget\\packages\\graphql.client.serializer.newtonsoft\\4.0.2\\graphql.client.serializer.newtonsoft.4.0.2.nupkg.sha512",
+    "C:\\Users\\sushido\\.nuget\\packages\\graphql.primitives\\4.0.2\\graphql.primitives.4.0.2.nupkg.sha512",
+    "C:\\Users\\sushido\\.nuget\\packages\\grpc\\2.43.0\\grpc.2.43.0.nupkg.sha512",
+    "C:\\Users\\sushido\\.nuget\\packages\\grpc.auth\\2.43.0\\grpc.auth.2.43.0.nupkg.sha512",
+    "C:\\Users\\sushido\\.nuget\\packages\\grpc.core\\2.43.0\\grpc.core.2.43.0.nupkg.sha512",
+    "C:\\Users\\sushido\\.nuget\\packages\\grpc.core.api\\2.43.0\\grpc.core.api.2.43.0.nupkg.sha512",
+    "C:\\Users\\sushido\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\sushido\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\sushido\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\sushido\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\sushido\\.nuget\\packages\\system.reactive\\4.3.2\\system.reactive.4.3.2.nupkg.sha512",
+    "C:\\Users\\sushido\\.nuget\\packages\\system.threading.tasks.dataflow\\6.0.0\\system.threading.tasks.dataflow.6.0.0.nupkg.sha512",
+    "C:\\Users\\sushido\\.nuget\\packages\\zb-client\\1.2.0\\zb-client.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
